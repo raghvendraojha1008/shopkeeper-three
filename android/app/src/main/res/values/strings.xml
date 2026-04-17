@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ShopkeeperLedger</string>
+    <string name="title_activity_main">ShopkeeperLedger</string>
+    <string name="package_name">com.shopkeeper.ledger</string>
+    <string name="custom_url_scheme">com.shopkeeper.ledger</string>
+    <string name="server_client_id">732972722987-uirigve5gmlpuaar6aiuaeibvm8v8jf4.apps.googleusercontent.com</string>
+</resources>

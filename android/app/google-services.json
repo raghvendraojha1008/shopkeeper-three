@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "935080418890",
+    "project_id": "shopkeeper-1a3fc",
+    "storage_bucket": "shopkeeper-1a3fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935080418890:android:d14fea96072e3707eb10b3",
+        "android_client_info": {
+          "package_name": "com.shopkeeper.ledger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935080418890-01b2kdifa0jtp7fn4td5fasbk33bhejg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shopkeeper.ledger",
+            "certificate_hash": "687d7c4ae2e596b1c6b3f4424f539968bfceceb9"
+          }
+        },
+        {
+          "client_id": "935080418890-4hmkt5g6sn0ar8d1lgcj96mto0hlm5a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlIT_8O1-Q0vj-Y6jjuML7WWNcdK8yBUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935080418890-4hmkt5g6sn0ar8d1lgcj96mto0hlm5a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
